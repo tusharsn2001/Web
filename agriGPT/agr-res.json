@@ -1,0 +1,23 @@
+{
+    "resources": [
+      {
+        "id": 1,
+        "title": "National Portal of India - Agriculture",
+        "description": "A comprehensive website featuring information and resources on various aspects of agriculture in India, including crop production, soil health, irrigation, and more.",
+        "url": "https://agriculture.gov.in/"
+      },
+      {
+        "id": 2,
+        "title": "Indian Council of Agricultural Research",
+        "description": "A national organization responsible for coordinating and promoting research in agriculture and allied fields in India.",
+        "url": "https://icar.org.in/"
+      },
+      {
+        "id": 3,
+        "title": "Krishi Vigyan Kendras",
+        "description": "A network of agricultural science centers spread across India, providing information and assistance to farmers and rural communities on a variety of topics.",
+        "url": "https://kvk.icar.gov.in/"
+      }
+    ]
+  }
+  
